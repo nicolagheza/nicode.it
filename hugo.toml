@@ -2,3 +2,10 @@ baseURL = 'https://nicode.it/'
 languageCode = 'en-us'
 title = 'nicode.it'
 theme = 'smol'
+
+[Params.social.share]
+  facebook = true
+  linkedin = true
+  twitter = true
+  whatsapp = true
+  email = true

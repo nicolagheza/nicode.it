@@ -1,7 +1,7 @@
 baseURL = 'https://nicode.it/'
 languageCode = 'en-us'
 title = 'nicode.it'
-theme = 'smol'
+theme = 'archie'
 
 [Params.social.share]
   facebook = true
